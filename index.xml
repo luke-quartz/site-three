@@ -10,61 +10,61 @@
     <link>https://quartz.jzhao.xyz/Excalidraw/Drawing-2025-06-24-14.40.48.excalidraw</link>
     <guid>https://quartz.jzhao.xyz/Excalidraw/Drawing-2025-06-24-14.40.48.excalidraw</guid>
     <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document.</description>
-    <pubDate>Fri, 27 Jun 2025 03:50:19 GMT</pubDate>
+    <pubDate>Fri, 27 Jun 2025 03:51:46 GMT</pubDate>
   </item><item>
     <title>_publish--obsidian-quartz--button</title>
     <link>https://quartz.jzhao.xyz/_publish--obsidian-quartz/_publish--obsidian-quartz--button</link>
     <guid>https://quartz.jzhao.xyz/_publish--obsidian-quartz/_publish--obsidian-quartz--button</guid>
     <description>cd /Users/luketych/Dev/_libraries/quartz export PATH=/Users/luketych/.nvm/versions/node/v22.16.0/bin:$PATH npx quartz sync --no-pull %%% Publish Quartz .</description>
-    <pubDate>Fri, 27 Jun 2025 03:50:19 GMT</pubDate>
+    <pubDate>Fri, 27 Jun 2025 03:51:46 GMT</pubDate>
   </item><item>
     <title>audit--testing_report-ice_cream_pattern</title>
     <link>https://quartz.jzhao.xyz/audits/2025_01_21/audit--testing_report-ice_cream_pattern/audit--testing_report-ice_cream_pattern</link>
     <guid>https://quartz.jzhao.xyz/audits/2025_01_21/audit--testing_report-ice_cream_pattern/audit--testing_report-ice_cream_pattern</guid>
     <description>SRT Ratings API Testing Audit Report Date: January 21, 2025 Auditor: Claude Code Project: SRT (Stock Ratings Tracker) API Executive Summary The SRT Ratings API testing architecture exhibits a classic Ice Cream Cone anti-pattern, with an inverted test distribution that prioritizes integration and end...</description>
-    <pubDate>Fri, 27 Jun 2025 03:50:19 GMT</pubDate>
+    <pubDate>Fri, 27 Jun 2025 03:51:46 GMT</pubDate>
   </item><item>
     <title>ice_cream_pattern--shared_state-implementation_coupling</title>
     <link>https://quartz.jzhao.xyz/audits/2025_01_21/audit--testing_report-ice_cream_pattern/ice_cream_pattern--shared_state-implementation_coupling</link>
     <guid>https://quartz.jzhao.xyz/audits/2025_01_21/audit--testing_report-ice_cream_pattern/ice_cream_pattern--shared_state-implementation_coupling</guid>
     <description>Testing Anti-Patterns: Shared State and Implementation Coupling Date: January 2025 Purpose: Understanding and addressing critical testing anti-patterns in the SRT Ratings API Audience: Development team members working on test improvements Executive Summary This document explains two critical testing...</description>
-    <pubDate>Fri, 27 Jun 2025 03:50:19 GMT</pubDate>
+    <pubDate>Fri, 27 Jun 2025 03:51:46 GMT</pubDate>
   </item><item>
     <title>audit--trees_not_graphs</title>
     <link>https://quartz.jzhao.xyz/audits/2025_01_21/audit--trees_not_graphs</link>
     <guid>https://quartz.jzhao.xyz/audits/2025_01_21/audit--trees_not_graphs</guid>
     <description>SRT Ratings API Architecture Audit: Trees, Not Graphs Date: January 21, 2025 Auditor: Claude Code Project: SRT (Stock Ratings Tracker) API Focus: Code architecture adherence to “Trees, Not Graphs” principle Executive Summary The SRT Ratings API exhibits several violations of the “Trees, Not Graphs” ...</description>
-    <pubDate>Fri, 27 Jun 2025 03:50:19 GMT</pubDate>
+    <pubDate>Fri, 27 Jun 2025 03:51:46 GMT</pubDate>
   </item><item>
     <title>01_desired_state</title>
     <link>https://quartz.jzhao.xyz/deep_breaths/2025_05_20/01_desired_state</link>
     <guid>https://quartz.jzhao.xyz/deep_breaths/2025_05_20/01_desired_state</guid>
     <description>Desired State of the Application [Describe the ideal state and functionality of the application.].</description>
-    <pubDate>Fri, 27 Jun 2025 03:50:19 GMT</pubDate>
+    <pubDate>Fri, 27 Jun 2025 03:51:46 GMT</pubDate>
   </item><item>
     <title>02_architecture</title>
     <link>https://quartz.jzhao.xyz/deep_breaths/2025_05_20/02_architecture</link>
     <guid>https://quartz.jzhao.xyz/deep_breaths/2025_05_20/02_architecture</guid>
     <description>Application Architecture [Outline the proposed or existing architecture of the application, including key components and their interactions.].</description>
-    <pubDate>Fri, 27 Jun 2025 03:50:19 GMT</pubDate>
+    <pubDate>Fri, 27 Jun 2025 03:51:46 GMT</pubDate>
   </item><item>
     <title>03_north_stars</title>
     <link>https://quartz.jzhao.xyz/deep_breaths/2025_05_20/03_north_stars</link>
     <guid>https://quartz.jzhao.xyz/deep_breaths/2025_05_20/03_north_stars</guid>
     <description>North Stars [List the guiding principles or key goals that define the project’s direction and success criteria.].</description>
-    <pubDate>Fri, 27 Jun 2025 03:50:19 GMT</pubDate>
+    <pubDate>Fri, 27 Jun 2025 03:51:46 GMT</pubDate>
   </item><item>
     <title>04_milestones</title>
     <link>https://quartz.jzhao.xyz/deep_breaths/2025_05_20/04_milestones</link>
     <guid>https://quartz.jzhao.xyz/deep_breaths/2025_05_20/04_milestones</guid>
     <description>Milestones [Detail the key milestones, both completed and upcoming, for the project.].</description>
-    <pubDate>Fri, 27 Jun 2025 03:50:19 GMT</pubDate>
+    <pubDate>Fri, 27 Jun 2025 03:51:46 GMT</pubDate>
   </item><item>
     <title>05_inspirations</title>
     <link>https://quartz.jzhao.xyz/deep_breaths/2025_05_20/05_inspirations</link>
     <guid>https://quartz.jzhao.xyz/deep_breaths/2025_05_20/05_inspirations</guid>
     <description>Inspirations [Note any external or internal ideas, projects, or concepts that have inspired this project.].</description>
-    <pubDate>Fri, 27 Jun 2025 03:50:19 GMT</pubDate>
+    <pubDate>Fri, 27 Jun 2025 03:51:46 GMT</pubDate>
   </item>
     </channel>
   </rss>
